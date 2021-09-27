@@ -18,6 +18,13 @@ _Here is a video on the topic by one of my favorite youtubers Hussein Nasser_
 
 [![_Here is a video on the topic by one of my favorite youtubers Hussein Nasser_](https://img.youtube.com/vi/43g3PF-e4ik/0.jpg)](https://www.youtube.com/watch?v=43g3PF-e4ik "Dependency Confusion")
 
+
+## Student Comments
+
+### Julie Pirro - jap871
+I was actually wondering about this topic earlier last week! How can commands like "pip install X" run directly on my laptop without having to actually download something from the internet? Isn't this a big security risk? I thought the explanation behind the hacking was very interesting in this article. I also loved how this article went into how big companies offer a "bug bounty" for essentially hacking into their systems. 
+
+
 <br/>
 
 <p>Edit by Christian Weinschenk:</p>
