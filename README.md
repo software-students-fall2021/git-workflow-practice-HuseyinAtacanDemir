@@ -1,15 +1,13 @@
 # Dependency Confusion
 ## Or How Some PenTester Hacked Into some of the Biggest Companies in the WORLD
 
-[_Here is the article on the topic_](https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610)
-
 ### The Story
 
 We have all used numerous package managers, such as npm, pip, homebrew, apt, etc.
 But have we ever considered who is maintaining all the thousands of dependencies that our projects link to? Or have we taken for granted the fact that we are all sitting on a ticking bomb of countless dependencies where through an exploit in just one dependency, our whole project may become vulnerable?
 
 <br/>
-What about public dependencies and private dependencies? What would happen if someone figured out the names of private dependencies that your team has created for your project, and created a public npm package under those names? Well, <a href="https://twitter.com/alxbrsn">Alex Birsan</a> answers that question in his article.
+What about public dependencies and private dependencies? What would happen if someone figured out the names of private dependencies that your team has created for your project, and created a public npm package under those names? Well, <a href="https://twitter.com/alxbrsn">Alex Birsan</a> answers that question in his <a href="https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610">article</a>.
 
 <br/>
 <br/>
