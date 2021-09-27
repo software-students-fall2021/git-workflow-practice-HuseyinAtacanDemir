@@ -1,6 +1,8 @@
 # Dependency Confusion
 ## Or How Some PenTester Hacked Into some of the Biggest Companies in the WORLD
 
+![dependency confusion](https://www.zdnet.com/a/img/resize/10ad3492e018e8d44192244a632a9f8758e504f2/2021/02/09/a9a2f23d-b603-45ef-b69d-7e98593f11e6/dependency-confusion.png?fit=bounds&auto=webp)
+
 ### The Story
 
 We have all used numerous package managers, such as npm, pip, homebrew, apt, etc.
