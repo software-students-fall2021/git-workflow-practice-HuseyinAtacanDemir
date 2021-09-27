@@ -21,5 +21,5 @@ _Here is a video on the topic by one of my favorite youtubers Hussein Nasser_
 
 ### Student Comments
 
-# Julie Pirro
+#### Julie Pirro - jap871
 I was actually wondering about this topic earlier last week! How can commands like "pip install X" run directly on my laptop without having to actually downlaod something from the internet? Isn't this a big security risk? I thought the explanation behind the hacking was very interesting in this article. I also loved how this article went into how big companies offer a "bug bounty" for essentially hacking into their systems. 
