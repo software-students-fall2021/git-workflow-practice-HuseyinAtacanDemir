@@ -15,3 +15,5 @@ What about public dependencies and private dependencies? What would happen if so
 <br/>
 
 [_Here is a video on the topic by one of my favorite youtubers Hussein Nasser_](https://www.youtube.com/watch?v=43g3PF-e4ik)
+
+[![_Here is a video on the topic by one of my favorite youtubers Hussein Nasser_](https://img.youtube.com/vi/43g3PF-e4ik/0.jpg)](https://www.youtube.com/watch?v=43g3PF-e4ik)
