@@ -4,8 +4,7 @@
 [_Here is the article on the topic_](https://medium.com/@alex.birsan/dependency-confusion-4a5d60fec610)
 
 ### The Story
-<br/>
-<br/>
+
 We have all used numerous package managers, such as npm, pip, homebrew, apt, etc.
 But have we ever considered who is maintaining all the thousands of dependencies that our projects link to? Or have we taken for granted the fact that we are all sitting on a ticking bomb of countless dependencies where through an exploit in just one dependency, our whole project may become vulnerable?
 
