@@ -17,3 +17,12 @@ What about public dependencies and private dependencies? What would happen if so
 _Here is a video on the topic by one of my favorite youtubers Hussein Nasser_
 
 [![_Here is a video on the topic by one of my favorite youtubers Hussein Nasser_](https://img.youtube.com/vi/43g3PF-e4ik/0.jpg)](https://www.youtube.com/watch?v=43g3PF-e4ik "Dependency Confusion")
+
+<br/>
+
+<p>Edit by Christian Weinschenk:</p>
+
+</br>
+
+<p> This is really cool and its unfortunate to see that package managers like NPM can be absued to hack into even larger corporations. Package managers are very ubiqitous and this seems very wildly applicable and could do a lot of damage. It reminds me a lot of an <a href="https://www.w3schools.com/sql/sql_injection.asp">SQL Injection</a> attack and I would hope that this is patched out.</p>
+
