@@ -23,3 +23,13 @@ _Here is a video on the topic by one of my favorite youtubers Hussein Nasser_
 
 ### Julie Pirro - jap871
 I was actually wondering about this topic earlier last week! How can commands like "pip install X" run directly on my laptop without having to actually download something from the internet? Isn't this a big security risk? I thought the explanation behind the hacking was very interesting in this article. I also loved how this article went into how big companies offer a "bug bounty" for essentially hacking into their systems. 
+
+
+<br/>
+
+<p>Edit by Christian Weinschenk:</p>
+
+</br>
+
+<p> This is really cool and its unfortunate to see that package managers like NPM can be absued to hack into even larger corporations. Package managers are very ubiqitous and this seems very wildly applicable and could do a lot of damage. It reminds me a lot of an <a href="https://www.w3schools.com/sql/sql_injection.asp">SQL Injection</a> attack and I would hope that this is patched out.</p>
+
